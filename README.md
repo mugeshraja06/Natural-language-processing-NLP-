@@ -1,8 +1,9 @@
 # Natural-language-processing-NLP-
 Natural language processing (NLP) _NLTK &amp; Spacy
 
-spacy.__version__ - 2.2.4
-nltk.__version__ - 3.4.4
+spacy -2.2.4 Version
+
+nltk -3.4.4 Version   
 
 Attached the basics level code for Natural language processing Technique.
 
